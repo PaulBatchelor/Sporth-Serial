@@ -1,3 +1,5 @@
+# part 1: button serial test
+
 _s "./serial.so" fl
 
 # Disturbia Riff by Rihanna 
